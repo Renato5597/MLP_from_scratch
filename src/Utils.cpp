@@ -1,7 +1,3 @@
-//
-// Created by 39366 on 11/02/2024.
-//
-
 #include "../include/Utils.h"
 
 double Mean(const std::vector<double>& vector)
