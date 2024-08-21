@@ -6,7 +6,7 @@
 
 
 int main() {
-    std::string file_path = "C:/Users/39366/Desktop/esercizi_cpp/ML_MLP/src/data.csv";
+    std::string file_path = "../data.csv";
     char delim = ';';
     DataHandler dh;
 
