@@ -1,7 +1,3 @@
-//
-// Created by 39366 on 12/02/2024.
-//
-
 #ifndef ML_MLP_COMMONDATA_H
 #define ML_MLP_COMMONDATA_H
 
