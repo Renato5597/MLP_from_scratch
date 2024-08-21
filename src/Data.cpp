@@ -1,7 +1,3 @@
-//
-// Created by 39366 on 10/02/2024.
-//
-
 #include <utility>
 
 #include "../include/Data.h"
