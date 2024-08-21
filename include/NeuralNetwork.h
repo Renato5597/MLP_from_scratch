@@ -1,7 +1,3 @@
-//
-// Created by 39366 on 11/02/2024.
-//
-
 #ifndef ML_MLP_NEURALNETWORK_H
 #define ML_MLP_NEURALNETWORK_H
 
